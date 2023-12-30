@@ -1,0 +1,33 @@
+/* styles.css */
+
+
+.navbar {
+    background-color: #8B4513; /* Темно-коричневый */
+}
+
+.alert {
+    background-color: #00FF00; /* Цвет лайма */
+    border-color: #00FF00; /* Цвет лайма */
+    color: #000;
+}
+
+.border-primary {
+    border-color: #8B4513; /* Темно-коричневый */
+}
+
+.bg-highlight {
+    background-color: #98FB98; /* Цвет зеленой мяты */
+    color: #000;
+}
+
+.page-link {
+    background-color: #87CEEB; /* Голубой */
+    border-color: #87CEEB; /* Голубой */
+    color: #000;
+}
+
+.footer {
+    background-color: #8B4513; /* Темно-коричневый */
+    color: #FFF;
+    padding: 20px 0;
+}
